@@ -12,4 +12,5 @@
 	简书：http://www.jianshu.com/p/703ab9105d47
 	参考函数 ： http://www.runoob.com/php/php-ref-mysqli.html
 	GitHub源码：https://github.com/bingxinti/table-user-edit
+	百度云视频教程：链接: http://pan.baidu.com/s/1nvhNQYH 密码: gnty
 
